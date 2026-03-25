@@ -182,20 +182,10 @@ Power-on order: **transmitter first**, then robot. Wait for receiver LED to go s
 
 ---
 
-### Repo layout
-
-```
-robo-soccer-v2/
-├── soccer_bot/
-│   └── soccer_bot.ino
-├── docs/
-│   └── wiring_diagram.png
-└── README.md
-```
 
 ---
 
 <div align="center">
 Built for the field.<br/>
-If this helped, leave a star.
+If this helped, leave a star. (try to copy this if you can >__<)
 </div>
